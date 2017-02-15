@@ -1,0 +1,12 @@
+{
+  "name": "mediator-express-pattern",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Some sort of flim flam of a thing to see how a mediator pattern would look",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape **.spec.js"
+  },
+  "author": "saibotsivad",
+  "license": "VOL"
+}
