@@ -1,5 +1,7 @@
 # fiddle-mediator-express
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/fiddle-mediator-express.svg)](https://greenkeeper.io/)
+
 > Note: This is just a draft, it won't run as-is.
 
 Thinking about how to use the mediator pattern with express routes.
